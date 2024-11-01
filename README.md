@@ -24,7 +24,7 @@ Date of creation: August, 2024 <br/>
 
 3. Navigate to the project directory:
     ```bash
-    cd Power_Consumption_Prediction
+    cd power_consumption_prediction
     ```
 
 4. Create a virtual environment:
