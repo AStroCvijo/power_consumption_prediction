@@ -17,7 +17,7 @@ Date of creation: August, 2024 <br/>
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/AStroCvijo/Power_Consumption_Prediction
+    git clone https://github.com/AStroCvijo/power_consumption_prediction
     ```
 
 2. Download the [Electric Power Consumption dataset](https://www.kaggle.com/datasets/fedesoriano/electric-power-consumption), extract it, and paste the `.csv` file into the `Power_Consumption_Prediction/data` directory.
